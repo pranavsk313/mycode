@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-
+<html>
 <body>
 
-<h1> My First php page using OpenShift S2I </h1>
-<h3> Hello viewers!..<h3>
+<h1> My first PHP page using OpenShift S2I </h1>
+
 <?php
-  
+echo "Hello Viewers!..";
 ?>
 
 </body>
