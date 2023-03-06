@@ -2,9 +2,10 @@
 
 <body>
 
-<h1>My Name is kartik sakhare i am from a.bad I am 21 yrs old</h1>
+<h1> My First php page using OpenShift S2I </h1>
+<h3> Hello viewers!..<h3>
 <?php
-echo "Hello from kartik";
+  
 ?>
 
 </body>
